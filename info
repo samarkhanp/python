@@ -1,0 +1,9 @@
+Eye Detection In Python
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Requirements:
+---------------
+1.Haarcascade :  https://github.com/Itseez/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
+2.OpenCV (CV2) :  Pacakage
+
+
